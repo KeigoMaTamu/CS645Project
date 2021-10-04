@@ -1,5 +1,5 @@
-Title
 3D Spinning Object
+
 Creator: Keigo Ma
 
 This is a CSCE 654 GEOMETRIC MODELING Project. 
